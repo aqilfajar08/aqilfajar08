@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqila Zulhazmi Fajar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqilfajar08" alt="aqilfajar08" /></a> </p>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilfajar08&label=Profile%20views&color=0e75b6&style=flat" alt="aqilfajar08" /> </p>
