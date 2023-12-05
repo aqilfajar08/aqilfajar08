@@ -23,5 +23,4 @@
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqilfajar08&show_icons=true&locale=en"bg_color=808080&hide_border=true"alt="aqilfajar08"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqilfajar08&"bg_color=808080&hide_border=true"alt="aqilfajar08"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilfajar08&show_icons=true&locale=en&layout=compact" alt="aqilfajar08" />
 </p>
