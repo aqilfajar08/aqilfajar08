@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aqila Zulhazmi Fajar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+- 🏫 I’m currently school on IDN Boarding School Solo
+- 🤝 I’m looking for other people if they want need help to me
+- 🌱 I’m currently learning about python and java script **Code Politan, Dicoding, Kelas Terbuka (On Youtube)**
+- 💬 Ask me about anything if i know
+- 📫 How to reach me? Just click on social meadia icon in bottom of the trophy
+- ⚡ Fun fact I like play FPS game and other game if i know it
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqilfajar08&label=Profile%20views&color=0e75b6&style=flat" alt="aqilfajar08" />
 </p>
