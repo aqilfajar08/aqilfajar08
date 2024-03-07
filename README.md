@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aqila Zulhazmi Fajar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🏫 I’m currently school on IDN Boarding School Solo
-- 🤝 I’m looking for other people if they want need help to me
-- 🌱 I’m currently learning about python and java script **Code Politan, Dicoding, Kelas Terbuka (On Youtube)**
-- 💬 Ask me about anything if i know
-- 📫 How to reach me? Just click on social meadia icon in bottom of the trophy
-- ⚡ Fun fact I like play FPS game and other game if i know it
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqilfajar08&label=Profile%20views&color=0e75b6&style=flat" alt="aqilfajar08" />
+  <a href="https://wakatime.com/@018c37d8-44f8-4552-b444-2e13d0a68dbc"><img src="https://wakatime.com/badge/user/018c37d8-44f8-4552-b444-2e13d0a68dbc.svg" alt="Total time coded since Dec 5 2023" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqilfajar08" alt="aqilfajar08" /></a> </pimg>
 </p>
+
+- 🏫 I’m currently school on IDN Boarding School Solo
+- 🤝 I’m looking for other people if they want need help to me
+- 🌱 I’m currently learning about python and java script **Code Politan, Dicoding, Kelas Terbuka (On Youtube)**
+- 💬 Ask me about anything if i know
+- 📫 How to reach me? Just click on social meadia icon in bottom
+- ⚡ Fun fact I like play FPS game and other game if i know it
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aqil-fajar-394911296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqil-fajar" height="30" width="40" /></a>
