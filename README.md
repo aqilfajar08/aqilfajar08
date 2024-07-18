@@ -12,7 +12,7 @@
 
 - 🏫 I’m currently school on IDN Boarding School Solo
 - 🤝 I’m looking for other people if they want need help to me
-- 🌱 I’m currently learning about python and java script **Code Politan, Dicoding, Kelas Terbuka (On Youtube)**
+- 🌱 I’m currently learning about java script **Code Politan**
 - 💬 Ask me about anything if i know
 - 📫 How to reach me? Just click on social meadia icon in bottom
 - ⚡ Fun fact I like play FPS game and other game if i know it
