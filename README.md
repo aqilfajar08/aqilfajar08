@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqilfajar08&label=Profile%20views&color=0e75b6&style=flat" alt="aqilfajar08" />
   <a href="https://wakatime.com/@018c37d8-44f8-4552-b444-2e13d0a68dbc"><img src="https://wakatime.com/badge/user/018c37d8-44f8-4552-b444-2e13d0a68dbc.svg" alt="Total time coded since Dec 5 2023" /></a>
+  <img src="https://badge.stateful.com/aqilfajar08/status.svg" alt="aqilfajar08's status" />
 </p>
 
 <p align="center">
